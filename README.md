@@ -1,2 +1,2 @@
 # Selenium-test-automation-feamework
-Selenium WebDriver automation framework USING jAVA, TestNG, Maven
+Selenium WebDriver automation framework USING JAVA, TestNG, Maven
